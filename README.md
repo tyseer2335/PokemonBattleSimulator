@@ -23,7 +23,7 @@ To set up and run this Java project on your local machine, follow these steps:
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/YehyunLee/PokemonGame
+    git clone https://github.com/tyseer2335/PokemonBattleSimulator.git
     cd PokemonGame
     ```
 
